@@ -1,5 +1,15 @@
 [
   {
+    "tituloES": "Artículo de prueba",
+    "tituloAR": "مقال اختبار",
+    "fecha": "2025-05-02",
+    "categoria": "Test",
+    "imagen": "",
+    "contenidoES": "Esto es solo una prueba.",
+    "contenidoAR": "هذا مجرد اختبار.",
+    "enlace": ""
+  },
+  {
     "tituloES": "Cinco claves para entender las dificultades de acceso a un empleo digno por las personas migrantes y refugiadas",
     "tituloAR": "خمسة مفاتيح لفهم صعوبات الوصول إلى الوظيفة اللائقة من قبل المهاجرين واللاجئين",
     "fecha": "Wed, 30 Ap",
